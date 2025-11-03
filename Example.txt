@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Example - dev
+=======
 Example hii
+>>>>>>> origin/master
